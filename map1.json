@@ -98,7 +98,7 @@
       "type": "Feature",
       "properties": {
         "row1": 1,
-        "test": "QDQDS"
+        "test": "QDS"
       },
       "geometry": {
         "type": "Point",
